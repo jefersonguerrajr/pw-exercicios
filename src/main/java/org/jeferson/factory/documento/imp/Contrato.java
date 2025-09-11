@@ -1,6 +1,6 @@
-package org.jeferson.factory3.imp;
+package org.jeferson.factory.documento.imp;
 
-import org.jeferson.factory3.Documento;
+import org.jeferson.factory.documento.Documento;
 
 public class Contrato implements Documento {
 

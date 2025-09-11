@@ -1,8 +1,8 @@
-package org.jeferson.factory3;
+package org.jeferson.factory.documento;
 
-import org.jeferson.factory3.imp.Contrato;
-import org.jeferson.factory3.imp.NotaFiscal;
-import org.jeferson.factory3.imp.Recibo;
+import org.jeferson.factory.documento.imp.Contrato;
+import org.jeferson.factory.documento.imp.NotaFiscal;
+import org.jeferson.factory.documento.imp.Recibo;
 
 public class DocumentoFactory {
 

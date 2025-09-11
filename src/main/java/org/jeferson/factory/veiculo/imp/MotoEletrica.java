@@ -1,6 +1,6 @@
-package org.jeferson.factory.imp;
+package org.jeferson.factory.veiculo.imp;
 
-import org.jeferson.factory.VeiculoEletrico;
+import org.jeferson.factory.veiculo.VeiculoEletrico;
 
 public class MotoEletrica implements VeiculoEletrico {
 

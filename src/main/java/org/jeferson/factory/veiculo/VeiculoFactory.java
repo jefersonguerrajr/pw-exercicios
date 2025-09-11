@@ -1,7 +1,7 @@
-package org.jeferson.factory;
+package org.jeferson.factory.veiculo;
 
-import org.jeferson.factory.imp.CarroEletrico;
-import org.jeferson.factory.imp.MotoEletrica;
+import org.jeferson.factory.veiculo.imp.CarroEletrico;
+import org.jeferson.factory.veiculo.imp.MotoEletrica;
 
 public class VeiculoFactory {
 

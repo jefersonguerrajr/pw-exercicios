@@ -1,4 +1,4 @@
-package org.jeferson.factory;
+package org.jeferson.factory.veiculo;
 
 public interface VeiculoEletrico {
 

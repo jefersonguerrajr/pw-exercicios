@@ -1,6 +1,6 @@
-package org.jeferson.factory2.imp;
+package org.jeferson.factory.pagamento.imp;
 
-import org.jeferson.factory2.Pagamento;
+import org.jeferson.factory.pagamento.Pagamento;
 
 public class Boleto implements Pagamento {
 

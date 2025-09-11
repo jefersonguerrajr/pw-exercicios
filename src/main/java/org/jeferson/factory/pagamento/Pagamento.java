@@ -1,4 +1,4 @@
-package org.jeferson.factory2;
+package org.jeferson.factory.pagamento;
 
 public interface Pagamento {
 

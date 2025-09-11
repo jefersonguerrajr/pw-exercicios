@@ -1,4 +1,4 @@
-package org.jeferson.factory3;
+package org.jeferson.factory.documento;
 
 public interface Documento {
 

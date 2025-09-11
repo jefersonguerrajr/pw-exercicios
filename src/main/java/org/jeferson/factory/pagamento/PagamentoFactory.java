@@ -1,8 +1,8 @@
-package org.jeferson.factory2;
+package org.jeferson.factory.pagamento;
 
-import org.jeferson.factory2.imp.Boleto;
-import org.jeferson.factory2.imp.CartaoCredito;
-import org.jeferson.factory2.imp.CartaoDebito;
+import org.jeferson.factory.pagamento.imp.Boleto;
+import org.jeferson.factory.pagamento.imp.CartaoCredito;
+import org.jeferson.factory.pagamento.imp.CartaoDebito;
 
 public class PagamentoFactory {
     public static Pagamento criarTipoPagamento(String tipo) {
